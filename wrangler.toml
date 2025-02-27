@@ -6,7 +6,7 @@ compatibility_flags = [ "nodejs_compat" ]
 [[d1_databases]]
 binding = "D1_DB"
 database_name = "a1_db"
-database_id = "3918354f-800f-4ead-b535-0b0a08a4cd9b"
+database_id = "PLACEHOLDER_DB_ID"
 
 [vars]
 CONFIG_PASSWORD = "123"
